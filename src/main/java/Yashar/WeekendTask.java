@@ -1,6 +1,6 @@
-package JavaTasks.Tasks.Yashar.week_1;
+package Yashar;
 
-public class WeekendTasks {
+public class WeekendTask {
     public static void main(String[] args) {
         System.out.println(findFrequency("AAAABYBYBYCDD"));
         int[] nums = {1, 2, 3, 4};
