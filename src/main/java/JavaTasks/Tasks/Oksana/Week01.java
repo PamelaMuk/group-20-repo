@@ -1,6 +1,5 @@
 package JavaTasks.Tasks.Oksana;
 
-
 import java.util.Arrays;
 
 public class Week01 {
@@ -10,7 +9,6 @@ Write a return method that can find the frequency of characters
 `
 Ex:  FrequencyOfChars("AAABBCDD") ==> A3B2C1D2
 `
-
 ### 2. Array - Find largest
 Write a method that can find the largest number from an int Array
 
@@ -20,7 +18,6 @@ Write a method that can find the largest number from an int Array
 EX:
 identify(5) ->  "Odd"
 identify(6) ->  "Even"
-`
      */
     public static String frequencyOfChars(String str){
         String result ="";
@@ -50,7 +47,6 @@ identify(6) ->  "Even"
         }
         return result;
     }
-
 
     public static void main(String[] args) {
         System.out.println(frequencyOfChars("AAABBCDDEFGAA"));
