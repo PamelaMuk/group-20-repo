@@ -1,4 +1,4 @@
-package JavaTasks.Tasks.Yashar.week_1;
+package JavaTasks.Yashar.week_1;
 
 public class WeekendTasks {
     public static void main(String[] args) {
