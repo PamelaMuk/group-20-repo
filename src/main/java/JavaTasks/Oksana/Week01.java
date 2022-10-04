@@ -1,4 +1,4 @@
-package JavaTasks.Tasks.Oksana;
+package JavaTasks.Oksana;
 
 import java.util.Arrays;
 
