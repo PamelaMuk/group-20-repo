@@ -5,10 +5,10 @@ public class Task1 {
     ### 1. Divide without / operator
 Write a method that can divide two numbers without using division operator
      */
-    public static void main(String[] args){//main method
+    public static void main(String[] args){
         int num1 = 10;
         int num2 = 5;
-        int divide = 0;
+        int divide;
         int result = 0;
         divide = num1 + num2;
 

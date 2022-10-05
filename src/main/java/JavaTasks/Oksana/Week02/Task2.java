@@ -9,6 +9,7 @@ Write a method which prints out the numbers from 1 to 30 but for numbers which a
         printNum();
     }
 
+
     public static void printNum() {
 
         for (int i = 1; i <= 30; i++) {
