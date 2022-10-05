@@ -18,5 +18,5 @@ public class Task1 {
             result++;
         }
         System.out.println("Division is: "+ result);////
-    }
+    }///comment
 }

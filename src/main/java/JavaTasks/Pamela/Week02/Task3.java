@@ -8,7 +8,7 @@ public class Task3 {
 
         a = a+b;
         b = a-b;
-        a = a-b;
+        a = a-b;//comment
 
         System.out.println("After swapping: "+"a = "+ a +", b = "+ b);
     }
