@@ -1,4 +1,4 @@
-package JavaTasks.Tasks.Pamela.Week01;
+package JavaTasks.Pamela.Week01;
 
 public class Week01_Tasks_Frequency_Largest_Even {
     public static void main(String[] args) {
