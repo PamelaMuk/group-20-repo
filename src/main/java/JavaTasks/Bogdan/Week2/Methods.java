@@ -26,6 +26,7 @@ public class Methods {
                 result += "RA";
             }
         }
+
         return result;
     }
 
