@@ -17,6 +17,6 @@ public class Task1 {
             num1 = num1 - num2;
             result++;
         }
-        System.out.println("Division is: "+ result);//
+        System.out.println("Division is: "+ result);////
     }
 }
