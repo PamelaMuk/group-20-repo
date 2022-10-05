@@ -14,7 +14,7 @@ public class Task2 {
                 System.out.println("RA");
             }else{
                 System.out.println(i);
-            }
+            }//
             
         }
     }
