@@ -1,4 +1,4 @@
-package JavaTasks.Tasks.Irina.Week2;
+package JavaTasks.Irina.Week2;
 
 public class Task1 {
     /*

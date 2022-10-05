@@ -1,4 +1,4 @@
-package JavaTasks.Tasks.Irina.Week1;
+package JavaTasks.Irina.Week1;
 
 import java.util.Arrays;
 
