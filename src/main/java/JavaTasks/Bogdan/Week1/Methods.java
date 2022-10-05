@@ -1,10 +1,10 @@
-package JavaTasks.Tasks.Bogdan;
+package JavaTasks.Bogdan.Week1;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.TreeSet;
 
-public class Week01 {
+public class Methods {
     public static String frequencyOfCharacters(String str){
 
         String result = "";
